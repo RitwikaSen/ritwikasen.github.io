@@ -1,18 +1,19 @@
 <!DOCTYPE html>
 
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-  <title>my-first-website</title>
-  <LINK href="styles.css" rel="stylesheet" type="text/css">
-</head>
+# Init git in the /website/public/ folder
+git init
 
-<body>
+# Add and commit the changes
+git add .
+git commit -m "first version of the website"
 
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
+# Set origin
+git remote add origin https://github.com/ritwikasen/ritwikasen.github.io.git
 
-<!-- Change this code here by copy and pasting your template on line 15 -->
-<p>Hello World! I’m Ritwika. This is my website!</p>
+# Rename local branch
+git branch -M main
 
-</body>
+# And push your updates online
+git push -u origin main
+
 </html>
