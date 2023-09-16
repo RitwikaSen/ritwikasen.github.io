@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ritwika Sen</title>
+    <link>https://ritwikasen.github.io/</link>
+      <atom:link href="https://ritwikasen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ritwika Sen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ritwikasen.github.io/media/icon_hu7bf344ec5ea801f354f438dfa0ab14a8_4721_512x512_fill_lanczos_center_3.png</url>
+      <title>Ritwika Sen</title>
+      <link>https://ritwikasen.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Achieving Scale Collectively</title>
+      <link>https://ritwikasen.github.io/publication/asc/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ritwikasen.github.io/publication/asc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Local Content in Uganda</title>
+      <link>https://ritwikasen.github.io/publication/localcontent/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ritwikasen.github.io/publication/localcontent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Growth and the Subsidy Raj in India - Re-examining the Bardhan Hypothesis</title>
+      <link>https://ritwikasen.github.io/publication/subsidy/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ritwikasen.github.io/publication/subsidy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ritwikasen.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ritwikasen.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
