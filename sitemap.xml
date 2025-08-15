@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ritwikasen.github.io/projects/01_sewif/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ritwikasen.github.io/projects/02_supervision/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ritwikasen.github.io/projects/03_sirt/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ritwikasen.github.io/projects/04_bureaucrats/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ritwikasen.github.io/publication/asc/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,6 +50,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ritwikasen.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ritwikasen.github.io/projects/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ritwikasen.github.io/publication_types/</loc>
